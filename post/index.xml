@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Raphael</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Projects on Raphael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Sep 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project4: Cryptocurrencies Market Analysis</title>
+      <link>https://example.com/post/project-4/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-4/</guid>
+      <description>The crytocurrency&amp;rsquo;s market is very volatile and at thesame time very profitable. In this project I will try and analyze the cryptomarket using excel.
+The following insights are drawn from the data: Top 10 cryptocurrencies by market values latest cryptocurrencies Oldest cryptocurrencies top 10 cryptocurrencies by rank Bitcoin price trend and moving averages Etheruem price trend and moving averages.   Crytocurrencies market analysis   Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project5: Smart Employee Salary Predictor App</title>
+      <link>https://example.com/post/project-5/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-5/</guid>
+      <description>The goal of this project is to build a smart application that uses machine learning regression algorithm to predict the salary of an employee given their years of experience, test score and interview score. The following are steps in the implementation of this project: Data collection, data cleaning, data wrangling, data visualization, model training and deployment into Flask web application.
+  Employee Salary Predictor.   This is link to Application</description>
+    </item>
+    
+    <item>
+      <title>Project6: Coronavirus Data Analysis</title>
+      <link>https://example.com/post/project-6/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-6/</guid>
+      <description>Covid-19 has changed our lives and affected the way we live. So, in this project, I will be analyzing covid 19 data gotten from wikipedia for insight. The following will be visualized from the data: Total death, total vaccinated, total cases,top10 countries with most vaccination etc.
+ETL and Data Cleaning: (i) Source of data is wikipedia (ii) PowerBI web connector is used to pull the data into PowerBI (iii) Data Transformation is carried out - remove the &amp;ldquo;total&amp;rdquo; rows, convert decimals into percentages,replace errors with zeros and rename invalid column names with correct names.</description>
+    </item>
+    
+    <item>
+      <title>Project7: Credit Card Fraud Detection</title>
+      <link>https://example.com/post/project-7/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-7/</guid>
+      <description>The project aims to mitiate the problem we face in our society-credit card fraud. The model will be trained to automatically detect if a transaction is fraudulent or genuine. This will help minimise the number of fraudulent activities faced in our finanacial institutions. I started the project by analysing the data to understand how each component relates to fraudulent activities, the most important features were selected for the final model.</description>
+    </item>
+    
+    <item>
+      <title>Project8: Zomato Restuarant Analysis</title>
+      <link>https://example.com/post/project-8/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-8/</guid>
+      <description>The basic idea is analyzing the Business Problem of Zomato to get a fair idea about the factors affecting the establishment of different types of restaurant at different places in Bengaluru, aggregate rating of each restaurant and many more.
+Steps in project implementation: Data Cleaning: (i) Deleting redundant columns. (ii) Renaming the columns. (iii) Dropping duplicates. (vi) Cleaning individual columns. (v) Remove the NaN values from the dataset. Data Visualization: (i) Using plots to find relations between the features.</description>
+    </item>
+    
+    <item>
+      <title>Project10: Fake News Prediction</title>
+      <link>https://example.com/post/project-10/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-10/</guid>
+      <description>We live in a world with lots of fake news articles, and the internet helps to spread them even faster. If we can find a way to capture these fake news articles on time, it will save many folks. This is the motivation behind this project, in which I predicted if the news is fake by using the news title. The LSTM model gave an accuracy of 92%.
+Steps in project implementation: (i) loading data (ii) dealing with null values (iii) stematization (iv) one hot encoding (v) word to matrix conversion(word embedding) (vi) Model training using LSTM Performance metric Training accuracy: 99%</description>
+    </item>
+    
+    <item>
+      <title>Project11: Stock Price Sentiment Analysis</title>
+      <link>https://example.com/post/project-11/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-11/</guid>
+      <description>The stock market is a huge market that has made many millionaires. Therefore, it is important to study the sentiment of the news headlines to understand the value of a company. This project tries to predict the stock price given 25 news headlines of a given company. The models(Random Forest and Naive Bayes) gave an accuracy score of 70%.
+Steps in project implementation: (i) load data and libraries (ii) data cleaning (iii) perform tokenization (iii) create document matrix using Bag Of Words(BOW) (iv) Model Building and model summary: (i) Random Forest Classifier (accuracy-70%) (ii) Naive Bayes(accuracy-70%) (iv) Hard-Voting-Classifier(Accuracy-70% and Recall-84%) (iv) Soft-Voting-Classiffier(Accuracy- 70%) Tech Stack sklearn</description>
+    </item>
+    
+    <item>
+      <title>Project12: Air Quality Prediction</title>
+      <link>https://example.com/post/project-12/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-12/</guid>
+      <description>This is a regresion problem that aims to predict the air quality of an area by using pm2.5 as a factor that determines air quality. The reason for using pm2.5 is because it is the most dangerous air pollutant. The models were built using temperature, Maximum temperature, minimum temperature, station Level pressure, humidity, wind, and visibility. The artificial neural network gave the mean absolute error as 31 PM2.5 and the root means squared error as 50 PM2.</description>
+    </item>
+    
+    <item>
+      <title>Project13: House Price Prediction</title>
+      <link>https://example.com/post/project-14/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-14/</guid>
+      <description>This is one of the most popular datasets in the machine learning community, in which we try to predict the price of a house in Boston. The data has 81 columns and 1460 rows. I explored the data, selected important features, and scaled it before feeding it into the models.
+Steps in project implementation: (i) load data and libraries (ii) exploratory data analysis and data cleaning (iii) feature selection using correlation coefficient (iv) splitting the data into training and testing sets (iv) feature scaling using standard scaler.</description>
+    </item>
+    
+    <item>
+      <title>Project13: Used Car Price Prediction</title>
+      <link>https://example.com/post/project-13/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-13/</guid>
+      <description>The objective of this project is to predict the price of a used car, given the car&amp;rsquo;s showroom price, distance covered, year of purchase, mode of transmission, and fuel type.
+Steps in project implementation: (i) load data and libraries (ii) exploratory data dnalysis dnd data cleaning (iii) feature selection using correlation Coefficient (iv) splitting the data into training and testing sets (v) feature Scaling using standard scaler. Model Training And Summary: Lasso Regression(R2 =83% ), Knearest Regression(R2 = 92%), Random Forest Regressor(R2 = 83), Voting Regressor(R2 = 93)</description>
+    </item>
+    
+    <item>
+      <title>Project15: Drug Prediction</title>
+      <link>https://example.com/post/project-15/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-15/</guid>
+      <description>The objective of this project is to predict the kind of drug a person should take, given the person&amp;rsquo;s age, sex, BP, cholesterol levels, and sodium content. The dataset was explored, features were selected and scaled for the model to be built.
+Steps: (i) load data and libraries (ii) exploratory data analysis and data cleaning (iii) feature selection using correlation coefficient (iv) splitting the data into training and testing sets (iv) feature scaling using standard scaler.</description>
+    </item>
+    
+    <item>
+      <title>Project9: Bank Customer Churn Modelling</title>
+      <link>https://example.com/post/project-9/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-9/</guid>
+      <description>The aim of this project is to predict if a customer will exit the bank or not. I made use of features such as credit score, geography, gender, tenure, age, balance, has credit card, is active and estimated salary for the prediction. The following steps where followed;
+ Feature Engineering: missing values where handled Exporatory data analysis:The data was analyzed and explored so I can understand how the different variables relate to customers churn Feature Scaling: standard scaler was used Artificial Neural Network(ANN)  Performance metric Training accuracy:80%</description>
+    </item>
+    
+    <item>
+      <title>Project1: Mall Customer Segmentation Analysis</title>
+      <link>https://example.com/post/project-1/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-1/</guid>
+      <description>The aim of the segmentation project is to group customers based on their personal characteristics into different groups to understand their spending behaviours. The conclusion of this project is that younger people tend to patronise the mall more than their older counterpart. Three groups or categories where noticed:age, gender and annual income, but age was the major factor that influenced spending.
+Steps in project implementation: (i) importation of Python libraries (ii) getting data from Source (iii) loading and preprocessing of data (iv) exploratory data analysis (v) feature selection (vi) feature transformation (vii) Application of clustering algorithms using KMEANS and DBSCAN clustering algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Project2: Swiggy Restaurant Data Analysis</title>
+      <link>https://example.com/post/project-2/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-2/</guid>
+      <description>This project is part of ineuronAI open internship,it is a POC(Proof of concept). Swiggy is an indian food ordering and delivering platform.So, the essence of this project is to analyze the data and recommend a location and a shop that offers good food,but at affordable rates to a friend. The conclusion from this project is that kchichi experiment located at koramangala is the best location to recommend to a friend, since they have high ratings, lower cost and also they are very popular among the people.</description>
+    </item>
+    
+    <item>
+      <title>Project3: Gemstone Identification Using Transfer Learning Techniques</title>
+      <link>https://example.com/post/project-3/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-3/</guid>
+      <description>This is an image classification project using prtrained CNN models. The goal of the project is to use CNN(transfer learning) to identify seven diferents gemstones. The gemstones considered include:Amathyst, Aquamarine,Emarald, Opal, Ruby, Saphire and Sunstone. The following steps were carried out in the implementation of this project: Data collection, data cleaning and augmentation, model training and visualization using grado library.
+Model summary: VGG16 training accuracy 73% and validation accuracy 72%</description>
+    </item>
+    
+  </channel>
+</rss>
